@@ -30,6 +30,10 @@
 	],
 	"author": "Fernando van Loenhout",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ferrybig/postgresql-mcp-readonly"
+	},
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "^1.0.0",
 		"pg": "^8.13.1",
