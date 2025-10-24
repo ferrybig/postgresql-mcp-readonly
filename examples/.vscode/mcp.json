@@ -1,0 +1,9 @@
+{
+	//   "servers": {
+	//     "postgresql-mcp-readonly": {
+	//       "type": "stdio",
+	//       "command": "node",
+	//       "args": ["build/index.js", "--database", "your_db", "--user", "your_user", "--password", "your_pass"]
+	//     }
+	//   }
+}
